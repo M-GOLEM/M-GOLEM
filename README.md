@@ -67,14 +67,3 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mr-Glint&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Glint&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mr-Glint&icon=0&color=0" />
-</p>
