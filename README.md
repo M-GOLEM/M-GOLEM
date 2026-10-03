@@ -206,7 +206,7 @@ Mr.GOLEM — Reverse Engineer & Malware Analyst
 </div>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=M-GOLEM&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=M-GOLEM&label=Profile%20views&color=00FF41&style=flat-square" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" width="100%" />
