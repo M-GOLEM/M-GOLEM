@@ -1,3 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header" width="100%" />
+
+<div align="center">
+<pre>█   █        ███   ███  █     █████ █   █
+██ ██       █   █ █   █ █     █     ██ ██
+█ █ █ █████ █     █   █ █     ████  █ █ █
+█   █       █  ██ █   █ █     █     █   █
+█   █        ███   ███  █████ █████ █   █</pre>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Mr.GOLEM;Reverse+Engineer;Malware+Analyst;Binary+Exploitation;CTF+Player" alt="Typing SVG" />
@@ -20,6 +29,13 @@
   </a>
 </p>
 
+```diff
++ [+] STATUS : ONLINE — hunting binaries
++ [+] FOCUS  : Reverse Engineering · Malware Analysis · Exploit Dev
++ [+] MODE   : CTF Player (Pwn / Rev / Forensics)
+- [-] SLEEP  : DISABLED
+```
+
 ---
 
 ## 👁️ About Me
@@ -38,6 +54,14 @@ Status:     Always learning low-level internals
 - 💥 **Binary Exploitation** — Buffer Overflows, ROP Chains, Heap Exploitation
 - ⚙️ **Reverse Engineering** — PE Files, .NET, Unpacking, Anti-Debug Bypass
 - 🕸️ **Web Security** — SQLi, XSS, SSTI, SSRF, Logic Flaws
+
+---
+
+## 📊 3D Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="M-GOLEM 3D contributions - night rainbow" />
+</p>
 
 ---
 
@@ -69,12 +93,12 @@ Status:     Always learning low-level internals
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=Mr-GOLEM&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
-  <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mr-GOLEM&theme=chartreuse-dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=M-GOLEM&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+  <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=M-GOLEM&theme=chartreuse-dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mr-GOLEM&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img src="https://streak-stats.demolab.com?user=M-GOLEM&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </p>
 
 ---
@@ -82,7 +106,7 @@ Status:     Always learning low-level internals
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-GOLEM&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-GOLEM&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
 </p>
 
 ---
@@ -145,9 +169,7 @@ Status:     Always learning low-level internals
 
 ---
 
-## 👤 About Me
-
-<img align="right" width="200" src="https://img.shields.io/badge/Mr.GOLEM-000000?style=for-the-badge&logoColor=00FF41" />
+## 👤 Terminal
 
 ```text
 > whoami
@@ -182,76 +204,9 @@ Mr.GOLEM — Reverse Engineer & Malware Analyst
 **⭐ If you find my work useful, consider starring the repos ⭐**
 
 </div>
-```
-
----
-
-**ده الملف كامل. انسخه من أول `<p align="center">` لآخر `</div>` وحطه في `README.md`. 💀**<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Mr.GOLEM;Reverse+Engineer;Malware+Analyst;CTF+Player" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <b>Reverse Engineer & Cybersecurity Researcher</b> focused on malware analysis, binary exploitation, and offensive security.<br>
-  Building tools, solving CTFs, and sharing knowledge.
+  <img src="https://visitcount.itsvg.in/api?id=M-GOLEM&icon=0&color=0" />
 </p>
 
-<p align="center">
-  <a href="https://hellstorm.blog">🌐 Blog</a> •
-  <a href="mailto:golem-hack@agentmail.to">📧 Email</a> •
-  <a href="https://discord.gg/discord.com/invite/1528872361359573113">💬 Discord</a>
-</p>
-
----
-
-### 💫 About Me
-
-- 🔍 **OSINT** — Reconnaissance, Threat Intelligence
-- 🧬 **Digital Forensics** — Memory Analysis, Disk Forensics
-- 🦠 **Malware Development** — C2, Evasion, Persistence
-- 🕸️ **Web Security** — SQLi, XSS, SSTI, SSRF
-- 💥 **Binary Exploitation** — Buffer Overflows, ROP Chains
-- ⚙️ **Reverse Engineering** — PE Files, Malware Unpacking
-
----
-
-### 📊 3D Contributions
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Mr-GOLEM 3D contributions - night rainbow" />
-</p>
-
----
-
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-2D2D2D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Mr-GOLEM&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Mr-GOLEM&theme=transparent&hide_border=false" />
-  <br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mr-GOLEM&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" width="100%" />
