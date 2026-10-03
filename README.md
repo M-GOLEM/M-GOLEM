@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Mr.Glint;Reverse+Engineer;Malware+Analyst;CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Mr.GOLEM;Reverse+Engineer;Malware+Analyst;CTF+Player" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://hellstorm.blog">🌐 Blog</a> •
-  <a href="mailto:mr.glint@agentmail.to">📧 Email</a> •
+  <a href="mailto:golem-hack@agentmail.to">📧 Email</a> •
   <a href="https://discord.gg/discord.com/invite/1528872361359573113">💬 Discord</a>
 </p>
 
@@ -29,7 +29,7 @@
 ### 📊 3D Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Mr-Glint 3D contributions - night rainbow" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Mr-GOLEM 3D contributions - night rainbow" />
 </p>
 
 ---
@@ -60,10 +60,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Mr-Glint&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Mr-GOLEM&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Mr-Glint&theme=transparent&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Mr-GOLEM&theme=transparent&hide_border=false" />
   <br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mr-Glint&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mr-GOLEM&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
