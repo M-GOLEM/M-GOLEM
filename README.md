@@ -29,6 +29,16 @@
   </a>
 </p>
 
+## 🧬 B I O
+
+> I'm **Mr.GOLEM** — a Reverse Engineer and Cybersecurity Researcher obsessed with how things work under the hood... and how they break. I live inside debuggers and disassemblers: unpacking malware, tracing C2 infrastructure, crafting ROP chains, and turning crashes into working exploits.
+>
+> My battlefield spans **binary exploitation, malware analysis, digital forensics, and web security** — from buffer overflows and heap feng shui to memory forensics and threat intelligence. I document everything and share it through my blog **HELLSTORM**, CTF writeups, and open research.
+>
+> When I'm not breaking binaries, I'm building tools to analyze them: CLI utilities, automation scripts, and home labs. I believe the best way to defend a system is to understand exactly how an attacker would tear it apart.
+>
+> *"Understand the machine, then break it — ethically."* 💀
+
 ```diff
 + [BOOT] neural-link ................ ONLINE
 + [AUTH] clearance level 5 .......... GRANTED
@@ -111,7 +121,7 @@ Status:     Always learning low-level internals
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-GOLEM&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
+  <img src="https://ghchart.rshah.org/00FF41/M-GOLEM" alt="M-GOLEM Contribution Chart" width="95%" />
 </p>
 
 ---
