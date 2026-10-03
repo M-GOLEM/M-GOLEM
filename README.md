@@ -30,11 +30,16 @@
 </p>
 
 ```diff
-+ [+] STATUS : ONLINE — hunting binaries
-+ [+] FOCUS  : Reverse Engineering · Malware Analysis · Exploit Dev
-+ [+] MODE   : CTF Player (Pwn / Rev / Forensics)
-- [-] SLEEP  : DISABLED
++ [BOOT] neural-link ................ ONLINE
++ [AUTH] clearance level 5 .......... GRANTED
++ [LOAD] malware_lab ................ READY
++ [LOAD] exploit_dev ................ READY
++ [LOAD] ctf_arena .................. READY
+- [TRACE] hunter-tracer ............. BLOCKED
+- [SLEEP] ........................... DISABLED
 ```
+
+<p align="center"><sub>01001000 01000001 01000011 01001011 01000101 01010010</sub></p>
 
 ---
 
@@ -169,6 +174,10 @@ Status:     Always learning low-level internals
 
 ---
 
+```diff
+@@ 4CC355 6R4N73D // 3XPL017 60N7R0L @@
+```
+
 ## 👤 Terminal
 
 ```text
@@ -194,6 +203,23 @@ Mr.GOLEM — Reverse Engineer & Malware Analyst
 ---
 
 <div align="center">
+
+<pre>
+      _______
+   .-"       "-.
+  /             \
+  |             |
+  |,  .-.  .-.  ,|
+  | )(__/  \__)( |
+  |/     /\     \|
+  (_     ^^     _)
+   \__|IIIIII|__/
+    | \IIIIII/ |
+    \         /
+     `-------`
+</pre>
+
+**[!] WARNING: you are entering GOLEM's territory [!]**
 
 ### 💬 Favorite Quote
 
