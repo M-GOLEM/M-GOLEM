@@ -78,6 +78,22 @@ writeups live in the repositories below.
 
 ---
 
+## ✍️ Writing — m-golem.github.io
+
+Long-form notes that go with the videos: the mechanism, where it breaks, and
+what actually helps.
+
+- [How Discord token grabbers work — and how to stop them](https://m-golem.github.io/blog/discord-token-grabbers.html)
+- [ADB and fastboot on Windows: a practical diagnostic guide](https://m-golem.github.io/blog/adb-fastboot-windows-guide.html)
+- [DNS ad blocking on Android without root](https://m-golem.github.io/blog/android-dns-ad-blocking.html)
+- [Building a TOTP vault in .NET: AES-GCM, PBKDF2 and the limits](https://m-golem.github.io/blog/totp-vault-dotnet.html)
+
+[All articles](https://m-golem.github.io/blog/) ·
+[Press kit & bio](https://m-golem.github.io/press.html) ·
+[RSS](https://m-golem.github.io/feed.xml)
+
+---
+
 ## 👁️ About Me
 
 ```yaml
