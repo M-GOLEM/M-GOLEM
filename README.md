@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Mr.GOLEM;Reverse+Engineer;Malware+Analyst;YouTuber;CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Mr Sayrws;Reverse+Engineer;Malware+Analyst;YouTuber;CTF+Player" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@golemsec">
-    <img src="https://img.shields.io/badge/YouTube-%40golemsec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="GOLEM SEC on YouTube" />
+  <a href="https://www.youtube.com/@mrsayrws">
+    <img src="https://img.shields.io/badge/YouTube-%40mrsayrws-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Mr Sayrws on YouTube" />
   </a>
   <a href="https://hellstorm.blog">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=firefox&logoColor=00FF41" />
@@ -27,16 +27,16 @@
   <a href="mailto:golem-hack@agentmail.to">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41" />
   </a>
-  <a href="https://m-golem.github.io/">
+  <a href="https://mrsayrws.github.io/">
     <img src="https://img.shields.io/badge/Website-m--golem.github.io-00FF41?style=for-the-badge" />
   </a>
 </p>
 
 ## 🧬 B I O
 
-> I'm **Mr.GOLEM** — a Reverse Engineer and Cybersecurity Researcher obsessed with how things work under the hood... and how they break. I live inside debuggers and disassemblers: unpacking malware, tracing C2 infrastructure, crafting ROP chains, and turning crashes into working exploits.
+> I'm **Mr Sayrws** — a Reverse Engineer and Cybersecurity Researcher obsessed with how things work under the hood... and how they break. I live inside debuggers and disassemblers: unpacking malware, tracing C2 infrastructure, crafting ROP chains, and turning crashes into working exploits.
 >
-> My battlefield spans **binary exploitation, malware analysis, digital forensics, and web security** — from buffer overflows and heap feng shui to memory forensics and threat intelligence. I document everything and share it through my blog **HELLSTORM**, CTF writeups, open research, and on **YouTube** — the channel **GOLEM SEC** ([@golemsec](https://www.youtube.com/@golemsec)) is where I break down reverse engineering, malware analysis and CTF work on video.
+> My battlefield spans **binary exploitation, malware analysis, digital forensics, and web security** — from buffer overflows and heap feng shui to memory forensics and threat intelligence. I document everything and share it through my blog **HELLSTORM**, CTF writeups, open research, and on **YouTube** — [@mrsayrws](https://www.youtube.com/@mrsayrws) is where I break down reverse engineering, malware analysis and CTF work on video.
 >
 > When I'm not breaking binaries, I'm building tools to analyze them: CLI utilities, automation scripts, and home labs. I believe the best way to defend a system is to understand exactly how an attacker would tear it apart.
 >
@@ -56,15 +56,15 @@
 
 ---
 
-## ▶️ YouTube — GOLEM SEC
+## ▶️ YouTube — Mr Sayrws
 
 I make videos about reverse engineering, malware analysis, binary exploitation
 and CTF. If you found this profile from a video, welcome — the tools and
 writeups live in the repositories below.
 
 <p align="center">
-  <a href="https://www.youtube.com/@golemsec">
-    <img src="https://img.shields.io/badge/Subscribe-GOLEM%20SEC-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to GOLEM SEC" />
+  <a href="https://www.youtube.com/@mrsayrws">
+    <img src="https://img.shields.io/badge/Subscribe-MR%20SAYRWS-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Mr Sayrws" />
   </a>
 </p>
 
@@ -73,36 +73,36 @@ writeups live in the repositories below.
 - Exploit development: stack overflows, ROP chains, heap internals
 - CTF pwn / rev / forensics solutions and tooling
 
-> **M-GOLEM** (also written **Mr.GOLEM** or **GOLEM**) is the GitHub account of
-> the reverse engineer behind **GOLEM SEC** on YouTube.
+> **mrsayrws** is the GitHub account and YouTube channel of **Mr Sayrws** — the
+> reverse engineer writing about binaries, malware and defensive tooling.
 
 ---
 
-## ✍️ Writing — m-golem.github.io
+## ✍️ Writing — mrsayrws.github.io
 
 Long-form notes that go with the videos: the mechanism, where it breaks, and
 what actually helps.
 
-- [How Discord token grabbers work — and how to stop them](https://m-golem.github.io/blog/discord-token-grabbers.html)
-- [ADB and fastboot on Windows: a practical diagnostic guide](https://m-golem.github.io/blog/adb-fastboot-windows-guide.html)
-- [DNS ad blocking on Android without root](https://m-golem.github.io/blog/android-dns-ad-blocking.html)
-- [Building a TOTP vault in .NET: AES-GCM, PBKDF2 and the limits](https://m-golem.github.io/blog/totp-vault-dotnet.html)
+- [How Discord token grabbers work — and how to stop them](https://mrsayrws.github.io/blog/discord-token-grabbers.html)
+- [ADB and fastboot on Windows: a practical diagnostic guide](https://mrsayrws.github.io/blog/adb-fastboot-windows-guide.html)
+- [DNS ad blocking on Android without root](https://mrsayrws.github.io/blog/android-dns-ad-blocking.html)
+- [Building a TOTP vault in .NET: AES-GCM, PBKDF2 and the limits](https://mrsayrws.github.io/blog/totp-vault-dotnet.html)
 
-[All articles](https://m-golem.github.io/blog/) ·
-[Press kit & bio](https://m-golem.github.io/press.html) ·
-[RSS](https://m-golem.github.io/feed.xml)
+[All articles](https://mrsayrws.github.io/blog/) ·
+[Press kit & bio](https://mrsayrws.github.io/press.html) ·
+[RSS](https://mrsayrws.github.io/feed.xml)
 
 ---
 
 ## 👁️ About Me
 
 ```yaml
-Name:       Mr.GOLEM
+Name:       Mr Sayrws
 Role:       Reverse Engineer | Malware Analyst | YouTuber | CTF Player
 Focus:      Binary Analysis · Exploit Development · Threat Intelligence
-YouTube:    https://www.youtube.com/@golemsec
+YouTube:    https://www.youtube.com/@mrsayrws
 Mindset:    "Understand the machine, then break it — ethically."
-Website:    https://m-golem.github.io/
+Website:    https://mrsayrws.github.io/
 Status:     Always learning low-level internals
 ```
 
@@ -119,29 +119,29 @@ Status:     Always learning low-level internals
 
 | Repository | What it is |
 |---|---|
-| [GOLEM-TABLET](https://github.com/M-GOLEM/GOLEM-TABLET) | Windows diagnostic toolkit for Android tablets: USB/ADB/fastboot/AT inspection, firmware-package validation, driver checks. Never flashes. |
-| [StopStealer](https://github.com/M-GOLEM/StopStealer) | Real-time Windows blocker for token grabbers and infostealers: memory signatures, process guard, browser/Discord profile monitoring. |
-| [Ad-Blocker](https://github.com/M-GOLEM/Ad-Blocker) | No-root Android DNS ad/tracker blocker built on a local `VpnService`, with three blocklist levels and live stats. |
-| [App2FA](https://github.com/M-GOLEM/App2FA) | Offline WinForms TOTP authenticator with an AES-256-GCM vault and QR import. |
-| [BlackNights_Release](https://github.com/M-GOLEM/BlackNights_Release) | *Black Nights* — a seven-chapter cinematic platformer made from scratch in Godot 4.7, code-drawn art and synthesized audio. |
-| [esp32-wifi-audit](https://github.com/M-GOLEM/esp32-wifi-audit) | ESP-IDF firmware for 802.11 auditing on ESP32: scanning, frame analysis, pcap/hccapx capture export. Authorized testing only. |
-| [chess-ai-master](https://github.com/M-GOLEM/chess-ai-master) | Browser extension that runs Stockfish locally for move analysis on Chess.com. Analysis and unrated play only. |
-| [Spicetify-Fix-UserMode](https://github.com/M-GOLEM/Spicetify-Fix-UserMode) | Tiny launcher that runs the official Spicetify installer in a non-elevated context on locked-down Windows images. |
-| [Resolves-a-guild-s-owner-via-a-self-token](https://github.com/M-GOLEM/Resolves-a-guild-s-owner-via-a-self-token) | Two small Discord API utilities (guild-owner lookup, webhook tester) for your own guild, API v10. |
+| [GOLEM-TABLET](https://github.com/mrsayrws/GOLEM-TABLET) | Windows diagnostic toolkit for Android tablets: USB/ADB/fastboot/AT inspection, firmware-package validation, driver checks. Never flashes. |
+| [StopStealer](https://github.com/mrsayrws/StopStealer) | Real-time Windows blocker for token grabbers and infostealers: memory signatures, process guard, browser/Discord profile monitoring. |
+| [Ad-Blocker](https://github.com/mrsayrws/Ad-Blocker) | No-root Android DNS ad/tracker blocker built on a local `VpnService`, with three blocklist levels and live stats. |
+| [App2FA](https://github.com/mrsayrws/App2FA) | Offline WinForms TOTP authenticator with an AES-256-GCM vault and QR import. |
+| [BlackNights_Release](https://github.com/mrsayrws/BlackNights_Release) | *Black Nights* — a seven-chapter cinematic platformer made from scratch in Godot 4.7, code-drawn art and synthesized audio. |
+| [esp32-wifi-audit](https://github.com/mrsayrws/esp32-wifi-audit) | ESP-IDF firmware for 802.11 auditing on ESP32: scanning, frame analysis, pcap/hccapx capture export. Authorized testing only. |
+| [chess-ai-master](https://github.com/mrsayrws/chess-ai-master) | Browser extension that runs Stockfish locally for move analysis on Chess.com. Analysis and unrated play only. |
+| [Spicetify-Fix-UserMode](https://github.com/mrsayrws/Spicetify-Fix-UserMode) | Tiny launcher that runs the official Spicetify installer in a non-elevated context on locked-down Windows images. |
+| [Resolves-a-guild-s-owner-via-a-self-token](https://github.com/mrsayrws/Resolves-a-guild-s-owner-via-a-self-token) | Two small Discord API utilities (guild-owner lookup, webhook tester) for your own guild, API v10. |
 
 Research and defense repositories — read their warnings before use:
 
 | Repository | Purpose |
 |---|---|
-| [token-grabber-discorrd](https://github.com/M-GOLEM/token-grabber-discorrd) | Sanitized malware sample preserved for defensive analysis. Never run outside an isolated VM. |
-| [osint-harvester](https://github.com/M-GOLEM/osint-harvester) | Archived scraping prototype kept as a cautionary record. Not maintained, not for use. |
+| [token-grabber-discorrd](https://github.com/mrsayrws/token-grabber-discorrd) | Sanitized malware sample preserved for defensive analysis. Never run outside an isolated VM. |
+| [osint-harvester](https://github.com/mrsayrws/osint-harvester) | Archived scraping prototype kept as a cautionary record. Not maintained, not for use. |
 
 ---
 
 ## 📊 3D Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="M-GOLEM 3D contributions - night rainbow" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="mrsayrws 3D contributions - night rainbow" />
 </p>
 
 ---
@@ -174,12 +174,12 @@ Research and defense repositories — read their warnings before use:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=M-GOLEM&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
-  <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=M-GOLEM&theme=chartreuse-dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=mrsayrws&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+  <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mrsayrws&theme=chartreuse-dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-GOLEM&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img src="https://streak-stats.demolab.com?user=mrsayrws&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </p>
 
 ---
@@ -187,7 +187,7 @@ Research and defense repositories — read their warnings before use:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00FF41/M-GOLEM" alt="M-GOLEM Contribution Chart" width="95%" />
+  <img src="https://ghchart.rshah.org/00FF41/mrsayrws" alt="mrsayrws Contribution Chart" width="95%" />
 </p>
 
 ---
@@ -255,7 +255,7 @@ Research and defense repositories — read their warnings before use:
   <a href="https://flagyard.com/profile/70b0ad55-56d9-4d26-86f5-64182a740d2b">
     <img src="https://img.shields.io/badge/Flagyard-Profile-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
-  <a href="https://www.youtube.com/@golemsec">
+  <a href="https://www.youtube.com/@mrsayrws">
     <img src="https://img.shields.io/badge/YouTube-HELLSTORM-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
@@ -270,7 +270,7 @@ Research and defense repositories — read their warnings before use:
 
 ```text
 > whoami
-Mr.GOLEM — Reverse Engineer & Malware Analyst
+Mr Sayrws — Reverse Engineer & Malware Analyst
 
 > cat interests.txt
 [*] Binary Analysis & Exploit Dev
@@ -307,7 +307,7 @@ Mr.GOLEM — Reverse Engineer & Malware Analyst
      `-------`
 </pre>
 
-**[!] WARNING: you are entering GOLEM's territory [!]**
+**[!] WARNING: you are entering SAYRWS' territory [!]**
 
 ### 💬 Favorite Quote
 
@@ -320,7 +320,7 @@ Mr.GOLEM — Reverse Engineer & Malware Analyst
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-GOLEM&label=Profile%20views&color=00FF41&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=mrsayrws&label=Profile%20views&color=00FF41&style=flat-square" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" width="100%" />
