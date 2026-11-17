@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header" width="100%" />
+<a href="https://mrsayrws.github.io/">
+  <img src="./assets/profile-banner.png" alt="Mr Sayrws — Reverse Engineer, Malware Analyst, YouTuber" width="100%" />
+</a>
 
 <div align="center">
 <pre>█   █        ███   ███  █     █████ █   █
@@ -21,14 +23,14 @@
   <a href="https://www.youtube.com/@mrsayrws">
     <img src="https://img.shields.io/badge/YouTube-%40mrsayrws-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Mr Sayrws on YouTube" />
   </a>
-  <a href="https://hellstorm.blog">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=firefox&logoColor=00FF41" />
+  <a href="https://mrsayrws.github.io/blog/">
+    <img src="https://img.shields.io/badge/Writing-HELLSTORM-000000?style=for-the-badge&logo=rss&logoColor=00FF41" alt="HELLSTORM writing" />
   </a>
   <a href="mailto:golem-hack@agentmail.to">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41" />
   </a>
   <a href="https://mrsayrws.github.io/">
-    <img src="https://img.shields.io/badge/Website-m--golem.github.io-00FF41?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-mrsayrws.github.io-00FF41?style=for-the-badge" />
   </a>
 </p>
 
@@ -119,6 +121,7 @@ Status:     Always learning low-level internals
 
 | Repository | What it is |
 |---|---|
+| [GOLEM-LINK](https://github.com/mrsayrws/GOLEM-LINK) | LAN-only two-machine cluster: TLS pairing, live telemetry dashboard, distributed task offload, clipboard relay and self-update — no cloud, no accounts. |
 | [GOLEM-TABLET](https://github.com/mrsayrws/GOLEM-TABLET) | Windows diagnostic toolkit for Android tablets: USB/ADB/fastboot/AT inspection, firmware-package validation, driver checks. Never flashes. |
 | [StopStealer](https://github.com/mrsayrws/StopStealer) | Real-time Windows blocker for token grabbers and infostealers: memory signatures, process guard, browser/Discord profile monitoring. |
 | [Ad-Blocker](https://github.com/mrsayrws/Ad-Blocker) | No-root Android DNS ad/tracker blocker built on a local `VpnService`, with three blocklist levels and live stats. |
@@ -153,9 +156,9 @@ Research and defense repositories — read their warnings before use:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/IDA_Pro-2D2D2D?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/x64dbg-1E1E1E?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Ghidra-decompiler-2D2D2D?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/IDA_Pro-disassembler-2D2D2D?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/x64dbg-debugger-1E1E1E?style=for-the-badge&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
