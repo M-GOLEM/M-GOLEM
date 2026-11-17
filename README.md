@@ -24,9 +24,6 @@
   <a href="mailto:golem-hack@agentmail.to">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41" />
   </a>
-  <a href="https://discord.gg/1528872361359573113">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41" />
-  </a>
 </p>
 
 ## 🧬 B I O
@@ -69,6 +66,29 @@ Status:     Always learning low-level internals
 - 💥 **Binary Exploitation** — Buffer Overflows, ROP Chains, Heap Exploitation
 - ⚙️ **Reverse Engineering** — PE Files, .NET, Unpacking, Anti-Debug Bypass
 - 🕸️ **Web Security** — SQLi, XSS, SSTI, SSRF, Logic Flaws
+
+---
+
+## 📌 Featured repositories
+
+| Repository | What it is |
+|---|---|
+| [GOLEM-TABLET](https://github.com/M-GOLEM/GOLEM-TABLET) | Windows diagnostic toolkit for Android tablets: USB/ADB/fastboot/AT inspection, firmware-package validation, driver checks. Never flashes. |
+| [StopStealer](https://github.com/M-GOLEM/StopStealer) | Real-time Windows blocker for token grabbers and infostealers: memory signatures, process guard, browser/Discord profile monitoring. |
+| [Ad-Blocker](https://github.com/M-GOLEM/Ad-Blocker) | No-root Android DNS ad/tracker blocker built on a local `VpnService`, with three blocklist levels and live stats. |
+| [App2FA](https://github.com/M-GOLEM/App2FA) | Offline WinForms TOTP authenticator with an AES-256-GCM vault and QR import. |
+| [BlackNights_Release](https://github.com/M-GOLEM/BlackNights_Release) | *Black Nights* — a seven-chapter cinematic platformer made from scratch in Godot 4.7, code-drawn art and synthesized audio. |
+| [esp32-wifi-audit](https://github.com/M-GOLEM/esp32-wifi-audit) | ESP-IDF firmware for 802.11 auditing on ESP32: scanning, frame analysis, pcap/hccapx capture export. Authorized testing only. |
+| [chess-ai-master](https://github.com/M-GOLEM/chess-ai-master) | Browser extension that runs Stockfish locally for move analysis on Chess.com. Analysis and unrated play only. |
+| [Spicetify-Fix-UserMode](https://github.com/M-GOLEM/Spicetify-Fix-UserMode) | Tiny launcher that runs the official Spicetify installer in a non-elevated context on locked-down Windows images. |
+| [Resolves-a-guild-s-owner-via-a-self-token](https://github.com/M-GOLEM/Resolves-a-guild-s-owner-via-a-self-token) | Two small Discord API utilities (guild-owner lookup, webhook tester) for your own guild, API v10. |
+
+Research and defense repositories — read their warnings before use:
+
+| Repository | Purpose |
+|---|---|
+| [token-grabber-discorrd](https://github.com/M-GOLEM/token-grabber-discorrd) | Sanitized malware sample preserved for defensive analysis. Never run outside an isolated VM. |
+| [osint-harvester](https://github.com/M-GOLEM/osint-harvester) | Archived scraping prototype kept as a cautionary record. Not maintained, not for use. |
 
 ---
 
@@ -168,6 +188,21 @@ Status:     Always learning low-level internals
 
 ---
 
+## 🧭 Research ethics
+
+- Security work here is limited to systems I own, CTFs, or engagements with
+  written authorization.
+- Malware samples are handled offline in disposable VMs; nothing in those
+  repositories is meant to be executed on a real machine.
+- Wireless and network tools are for authorized audits only — deauth/DoS
+  testing disrupts third-party traffic and is illegal without permission.
+- No tool here is built to bypass another service's anti-abuse controls;
+  research uses public data and official APIs.
+- Findings are documented and shared so defenders can reproduce them, not so
+  they can be weaponized. Report vulnerabilities privately before publishing.
+
+---
+
 ## 🏆 CTF & Community
 
 <p align="center">
@@ -176,9 +211,6 @@ Status:     Always learning low-level internals
   </a>
   <a href="https://www.youtube.com/@golemsec">
     <img src="https://img.shields.io/badge/YouTube-HELLSTORM-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/1528872361359573113">
-    <img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
