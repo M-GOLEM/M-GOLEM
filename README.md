@@ -9,15 +9,18 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Mr.GOLEM;Reverse+Engineer;Malware+Analyst;Binary+Exploitation;CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Mr.GOLEM;Reverse+Engineer;Malware+Analyst;YouTuber;CTF+Player" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Reverse Engineer & Cybersecurity Researcher</b><br>
-  <sub>Malware Analysis · Binary Exploitation · Offensive Security · Digital Forensics</sub>
+  <b>Reverse Engineer · Malware Analyst · YouTuber</b><br>
+  <sub>Malware Analysis · Binary Exploitation · Digital Forensics · CTF</sub>
 </p>
 
 <p align="center">
+  <a href="https://www.youtube.com/@golemsec">
+    <img src="https://img.shields.io/badge/YouTube-%40golemsec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="GOLEM SEC on YouTube" />
+  </a>
   <a href="https://hellstorm.blog">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=firefox&logoColor=00FF41" />
   </a>
@@ -30,7 +33,7 @@
 
 > I'm **Mr.GOLEM** — a Reverse Engineer and Cybersecurity Researcher obsessed with how things work under the hood... and how they break. I live inside debuggers and disassemblers: unpacking malware, tracing C2 infrastructure, crafting ROP chains, and turning crashes into working exploits.
 >
-> My battlefield spans **binary exploitation, malware analysis, digital forensics, and web security** — from buffer overflows and heap feng shui to memory forensics and threat intelligence. I document everything and share it through my blog **HELLSTORM**, CTF writeups, and open research.
+> My battlefield spans **binary exploitation, malware analysis, digital forensics, and web security** — from buffer overflows and heap feng shui to memory forensics and threat intelligence. I document everything and share it through my blog **HELLSTORM**, CTF writeups, open research, and on **YouTube** — the channel **GOLEM SEC** ([@golemsec](https://www.youtube.com/@golemsec)) is where I break down reverse engineering, malware analysis and CTF work on video.
 >
 > When I'm not breaking binaries, I'm building tools to analyze them: CLI utilities, automation scripts, and home labs. I believe the best way to defend a system is to understand exactly how an attacker would tear it apart.
 >
@@ -50,12 +53,35 @@
 
 ---
 
+## ▶️ YouTube — GOLEM SEC
+
+I make videos about reverse engineering, malware analysis, binary exploitation
+and CTF. If you found this profile from a video, welcome — the tools and
+writeups live in the repositories below.
+
+<p align="center">
+  <a href="https://www.youtube.com/@golemsec">
+    <img src="https://img.shields.io/badge/Subscribe-GOLEM%20SEC-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to GOLEM SEC" />
+  </a>
+</p>
+
+- Malware analysis walkthroughs — unpacking, anti-analysis, C2 tracing
+- Reverse engineering sessions in Ghidra / IDA / x64dbg
+- Exploit development: stack overflows, ROP chains, heap internals
+- CTF pwn / rev / forensics solutions and tooling
+
+> **M-GOLEM** (also written **Mr.GOLEM** or **GOLEM**) is the GitHub account of
+> the reverse engineer behind **GOLEM SEC** on YouTube.
+
+---
+
 ## 👁️ About Me
 
 ```yaml
 Name:       Mr.GOLEM
-Role:       Reverse Engineer | Malware Analyst | CTF Player
+Role:       Reverse Engineer | Malware Analyst | YouTuber | CTF Player
 Focus:      Binary Analysis · Exploit Development · Threat Intelligence
+YouTube:    https://www.youtube.com/@golemsec
 Mindset:    "Understand the machine, then break it — ethically."
 Status:     Always learning low-level internals
 ```
