@@ -18,6 +18,7 @@ document what I find on [YouTube](https://www.youtube.com/@mrsayrws) and in my
 | Project | What it does |
 |---|---|
 | [GOLEM-LINK](https://github.com/mrsayrws/GOLEM-LINK) | LAN-only cluster for two machines: telemetry, task offload, clipboard relay, self-update. |
+| [BuildForge](https://mrsayrws.github.io/buildforge/) | Windows build console that detects the project type, builds it, and explains every compiler error. |
 | [StopStealer](https://github.com/mrsayrws/StopStealer) | Real-time Windows blocker for token grabbers and infostealers. |
 | [GOLEM-TABLET](https://github.com/mrsayrws/GOLEM-TABLET) | Android tablet diagnostics over USB/ADB/fastboot. Inspects only — never flashes. |
 | [App2FA](https://github.com/mrsayrws/App2FA) | Offline WinForms TOTP authenticator with an AES-256-GCM vault. |
